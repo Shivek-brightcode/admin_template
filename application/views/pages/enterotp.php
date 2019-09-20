@@ -1,7 +1,7 @@
 <!-- <body><div> in top-section-->
         <div class="login-box">
             <div class="login-logo">
-                <a href="<?php echo base_url(); ?>"><b>Wholesale</b>Factory</a>
+                <a href="<?php echo base_url(); ?>"><b><?php echo PROJECT_NAME;?></b></a>
             </div>
             <div class="login-box-body">
                 <p class="login-box-msg">Enter OTP</p>

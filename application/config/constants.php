@@ -87,7 +87,7 @@ defined('EXIT__AUTO_MAX')      OR define('EXIT__AUTO_MAX', 125); // highest auto
 ///////////////////////////////////////////////
     $curyear = date('Y',strtotime(date('Y-m-d')));
     $secyear = $curyear+1;
-    define('PROJECT_NAME','Matics Test Series'); 
+    define('PROJECT_NAME','Admin Template'); 
     define('OUR_BRAND',"Brightcode Software Services Pvt Ltd.");
 	define('SESSION_YEAR',"$curyear-$secyear");
 	define('SITE_SALT',"Admin Template");
